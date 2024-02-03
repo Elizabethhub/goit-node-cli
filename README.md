@@ -1,6 +1,6 @@
-# Node Contacts CLI
+# Node Contacts CLI app
 
-This is simple contacts cli built with Node.js and Commander.
+This is simple contacts CLI application built with Node.js and Commander.
 
 ## Table of Contents
 
